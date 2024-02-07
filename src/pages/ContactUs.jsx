@@ -20,6 +20,7 @@ function ContactUs() {
                     <textarea name="message" id="message" className='focus:ring-transparent outline-none rounded-md focus:border-slate-300 border-slate-300 mt-1 border-[1px] min-h-28 max-h-28 text-slate-500' required></textarea>
 
                     <button className='bg-pink text-white font-medium mt-5 py-2 rounded-md drop-shadow-md'>Send</button>
+                    
                 </form>
                 <div>
                     <h1 className='text-2xl mb-2'>Let's talk about everything.</h1>
